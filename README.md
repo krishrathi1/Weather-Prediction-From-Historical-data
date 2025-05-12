@@ -1,1 +1,1 @@
-# Weather-Prediction-From-Historical-data
+# Diseaster-Prediction-From-Historical-data
